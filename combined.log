@@ -1,0 +1,47 @@
+{"level":"info","message":"Processing order with ID: 123","timestamp":"2025-04-29 11:18:13"}
+{"level":"info","message":"Order details: [{\"name\":\"Laptop\",\"price\":1200,\"quantity\":1},{\"name\":\"Mouse\",\"price\":25,\"quantity\":2}]","timestamp":"2025-04-29 11:18:13"}
+{"level":"info","message":"Order 123 processed. Total: $1250.00","timestamp":"2025-04-29 11:18:13"}
+{"level":"info","message":"Processing order with ID: 456","timestamp":"2025-04-29 11:18:13"}
+{"level":"info","message":"Order details: [{\"name\":\"Keyboard\",\"price\":75,\"quantity\":15},{\"name\":\"Monitor\",\"price\":300,\"quantity\":1},{\"name\":\"Broken Item\",\"price\":0,\"quantity\":1}]","timestamp":"2025-04-29 11:18:13"}
+{"level":"warn","message":"Large quantity detected for item: Keyboard","timestamp":"2025-04-29 11:18:13"}
+{"level":"error","message":"Invalid price found for item: Broken Item","timestamp":"2025-04-29 11:18:13"}
+{"level":"info","message":"Order 456 processed. Total: $1425.00","timestamp":"2025-04-29 11:18:13"}
+{"level":"error","message":"An error occurred: Simulating a critical error","stack":"Error: Simulating a critical error\n    at Object.<anonymous> (C:\\Users\\seydina\\OneDrive\\Documents\\Web dev 2 files\\lOGGING8LAB\\app.js:41:11)\n    at Module._compile (node:internal/modules/cjs/loader:1546:14)\n    at Object..js (node:internal/modules/cjs/loader:1689:10)\n    at Module.load (node:internal/modules/cjs/loader:1318:32)\n    at Function._load (node:internal/modules/cjs/loader:1128:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:315:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-04-29 11:18:13"}
+{"level":"info","message":"Processing order with ID: 123","timestamp":"2025-04-29 11:20:22"}
+{"level":"info","message":"Order details: [{\"name\":\"Laptop\",\"price\":1200,\"quantity\":1},{\"name\":\"Mouse\",\"price\":25,\"quantity\":2}]","timestamp":"2025-04-29 11:20:22"}
+{"level":"info","message":"Order 123 processed. Total: $1250.00","timestamp":"2025-04-29 11:20:22"}
+{"level":"info","message":"Processing order with ID: 456","timestamp":"2025-04-29 11:20:22"}
+{"level":"info","message":"Order details: [{\"name\":\"Keyboard\",\"price\":75,\"quantity\":15},{\"name\":\"Monitor\",\"price\":300,\"quantity\":1},{\"name\":\"Broken Item\",\"price\":0,\"quantity\":1}]","timestamp":"2025-04-29 11:20:22"}
+{"level":"warn","message":"Large quantity detected for item: Keyboard","timestamp":"2025-04-29 11:20:22"}
+{"level":"error","message":"Invalid price found for item: Broken Item","timestamp":"2025-04-29 11:20:22"}
+{"level":"info","message":"Order 456 processed. Total: $1425.00","timestamp":"2025-04-29 11:20:22"}
+{"level":"error","message":"An error occurred: Simulating a critical error","stack":"Error: Simulating a critical error\n    at Object.<anonymous> (C:\\Users\\seydina\\OneDrive\\Documents\\Web dev 2 files\\lOGGING8LAB\\app.js:41:11)\n    at Module._compile (node:internal/modules/cjs/loader:1546:14)\n    at Object..js (node:internal/modules/cjs/loader:1689:10)\n    at Module.load (node:internal/modules/cjs/loader:1318:32)\n    at Function._load (node:internal/modules/cjs/loader:1128:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:315:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-04-29 11:20:22"}
+{"level":"debug","message":"This is a debug message for development.","timestamp":"2025-04-29 11:20:22"}
+{"level":"info","message":"Processing order with ID: 123","timestamp":"2025-04-29 11:23:13"}
+{"level":"info","message":"Order details: [{\"name\":\"Laptop\",\"price\":1200,\"quantity\":1},{\"name\":\"Mouse\",\"price\":25,\"quantity\":2}]","timestamp":"2025-04-29 11:23:13"}
+{"level":"info","message":"Order 123 processed. Total: $1250.00","timestamp":"2025-04-29 11:23:13"}
+{"level":"info","message":"Processing order with ID: 456","timestamp":"2025-04-29 11:23:13"}
+{"level":"info","message":"Order details: [{\"name\":\"Keyboard\",\"price\":75,\"quantity\":15},{\"name\":\"Monitor\",\"price\":300,\"quantity\":1},{\"name\":\"Broken Item\",\"price\":0,\"quantity\":1}]","timestamp":"2025-04-29 11:23:13"}
+{"level":"warn","message":"Large quantity detected for item: Keyboard","timestamp":"2025-04-29 11:23:13"}
+{"level":"error","message":"Invalid price found for item: Broken Item","timestamp":"2025-04-29 11:23:13"}
+{"level":"info","message":"Order 456 processed. Total: $1425.00","timestamp":"2025-04-29 11:23:13"}
+{"level":"error","message":"An error occurred: Simulating a critical error","stack":"Error: Simulating a critical error\n    at Object.<anonymous> (C:\\Users\\seydina\\OneDrive\\Documents\\Web dev 2 files\\lOGGING8LAB\\app.js:41:11)\n    at Module._compile (node:internal/modules/cjs/loader:1546:14)\n    at Object..js (node:internal/modules/cjs/loader:1689:10)\n    at Module.load (node:internal/modules/cjs/loader:1318:32)\n    at Function._load (node:internal/modules/cjs/loader:1128:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:315:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-04-29 11:23:13"}
+{"level":"info","message":"Processing order with ID: 123","timestamp":"2025-04-29 11:23:49"}
+{"level":"info","message":"Order details: [{\"name\":\"Laptop\",\"price\":1200,\"quantity\":1},{\"name\":\"Mouse\",\"price\":25,\"quantity\":2}]","timestamp":"2025-04-29 11:23:49"}
+{"level":"info","message":"Order 123 processed. Total: $1250.00","timestamp":"2025-04-29 11:23:49"}
+{"level":"info","message":"Processing order with ID: 456","timestamp":"2025-04-29 11:23:49"}
+{"level":"info","message":"Order details: [{\"name\":\"Keyboard\",\"price\":75,\"quantity\":15},{\"name\":\"Monitor\",\"price\":300,\"quantity\":1},{\"name\":\"Broken Item\",\"price\":0,\"quantity\":1}]","timestamp":"2025-04-29 11:23:49"}
+{"level":"warn","message":"Large quantity detected for item: Keyboard","timestamp":"2025-04-29 11:23:49"}
+{"level":"error","message":"Invalid price found for item: Broken Item","timestamp":"2025-04-29 11:23:49"}
+{"level":"info","message":"Order 456 processed. Total: $1425.00","timestamp":"2025-04-29 11:23:49"}
+{"level":"error","message":"An error occurred: Simulating a critical error","stack":"Error: Simulating a critical error\n    at Object.<anonymous> (C:\\Users\\seydina\\OneDrive\\Documents\\Web dev 2 files\\lOGGING8LAB\\app.js:41:11)\n    at Module._compile (node:internal/modules/cjs/loader:1546:14)\n    at Object..js (node:internal/modules/cjs/loader:1689:10)\n    at Module.load (node:internal/modules/cjs/loader:1318:32)\n    at Function._load (node:internal/modules/cjs/loader:1128:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:315:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-04-29 11:23:49"}
+{"level":"debug","message":"This is a debug message for development.","timestamp":"2025-04-29 11:23:49"}
+{"level":"info","message":"Processing order with ID: 123","timestamp":"2025-04-29 11:35:33"}
+{"level":"info","message":"Order details: [{\"name\":\"Laptop\",\"price\":1200,\"quantity\":1},{\"name\":\"Mouse\",\"price\":25,\"quantity\":2}]","timestamp":"2025-04-29 11:35:33"}
+{"level":"info","message":"Order 123 processed. Total: $1250.00","timestamp":"2025-04-29 11:35:33"}
+{"level":"info","message":"Processing order with ID: 456","timestamp":"2025-04-29 11:35:33"}
+{"level":"info","message":"Order details: [{\"name\":\"Keyboard\",\"price\":75,\"quantity\":15},{\"name\":\"Monitor\",\"price\":300,\"quantity\":1},{\"name\":\"Broken Item\",\"price\":0,\"quantity\":1}]","timestamp":"2025-04-29 11:35:33"}
+{"level":"warn","message":"Large quantity detected for item: Keyboard","timestamp":"2025-04-29 11:35:33"}
+{"level":"error","message":"Invalid price found for item: Broken Item","timestamp":"2025-04-29 11:35:33"}
+{"level":"info","message":"Order 456 processed. Total: $1425.00","timestamp":"2025-04-29 11:35:33"}
+{"level":"error","message":"An error occurred: Simulating a critical error","stack":"Error: Simulating a critical error\n    at Object.<anonymous> (C:\\Users\\seydina\\OneDrive\\Documents\\Web dev 2 files\\lOGGING8LAB\\app.js:41:11)\n    at Module._compile (node:internal/modules/cjs/loader:1546:14)\n    at Object..js (node:internal/modules/cjs/loader:1689:10)\n    at Module.load (node:internal/modules/cjs/loader:1318:32)\n    at Function._load (node:internal/modules/cjs/loader:1128:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:315:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)\n    at node:internal/main/run_main_module:36:49","timestamp":"2025-04-29 11:35:33"}
